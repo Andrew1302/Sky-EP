@@ -1,5 +1,7 @@
 # First Skyrats workshop: LINUX/GIT
 
+![image](https://github.com/Andrew1302/Sky-EP/assets/105164838/f7c26a10-c84c-4b91-8c51-6639d34abc6f)
+
 ## Linux overview:
 First of all, we have to understand that Linux is the kernel's name (low level operating system's software), but can have multiple different distributions (aka distros). Every distro have some differences, but they usually are based on some major "families", such as Fedora, Debian and Arch Linux. Also, itś worth saying that usually these distros are open source and free, since there's a large community that helps to maintain the software.
 As we're focusing on the best compatibility with drones related software, on Skyrats we will pick Ubuntu (Debian based and maybe the most popular distro today) to run everything.
