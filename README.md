@@ -52,7 +52,7 @@ It's a emoji set that's used in commit messages as a way to other people know as
 ### README:
 Itś a simple file that guides the reader to understand what the repository is about and how to interact with it. It can be as simple as a black and white text or can include multiple pictures and gifs
 
-### Gitinore:
+### Gitignore:
 It's a way to tell git to ignore some files when you commit. To use it, you must create a file named .gitignore on the project's root and add all files and folders that should be ignored. It's very usefull to avoid, as an example, uploading huge train images for a classifier
 
 ### Pull Request: 
